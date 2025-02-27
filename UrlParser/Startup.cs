@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.SwaggerGen;
-using Microsoft.OpenApi.Models; // Добавьте это пространство имен
+using Microsoft.OpenApi.Models; 
 
 namespace HttpParser
 {
