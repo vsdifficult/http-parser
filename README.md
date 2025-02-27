@@ -3,6 +3,7 @@ Parsing tech in NET
 
 You can start project: 
 ```
+git clone https://github.com/vsdifficult/http-parser.git
 cd UrlParser
 dotnet run
 ```
