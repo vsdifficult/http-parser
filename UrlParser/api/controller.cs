@@ -13,7 +13,7 @@ namespace HttpParser.Controllers
         {
             if (string.IsNullOrEmpty(url))
             {
-                return BadRequest("URL не может быть пустым");
+                return BadRequest("URL not be null");
             }
 
             try
